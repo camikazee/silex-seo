@@ -1,0 +1,14 @@
+{
+    "name": "cmi/seo",
+    "description": "Seo Provider",
+    "authors": [
+        {
+            "name": "KLE",
+            "email": "v.developers.team+kle@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "pimple/pimple": ">=2.1,<4",
+    }
+}
